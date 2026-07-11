@@ -8,22 +8,7 @@ conservation easement?
 
 Analysis Workflow
 
-Camera Trap Data
-        │
-        ▼
-Occupancy Null Model
-        │
-        ▼
-Occupancy Covariate Models
-        │
-        ▼
-Temporal Overlap Analysis
-        │
-        ▼
-Daytime Detection Summary
-        │
-        ▼
-Same-Day Co-occurrence Analysis
+Camera Trap Data -> Occupancy Null Model -> Occupancy Covariate Models -> Temporal Overlap Analysis -> Daytime Detection Summary -> Same-Day Co-occurrence Analysis
 
 Master's Thesis  
 California State University, Long Beach
